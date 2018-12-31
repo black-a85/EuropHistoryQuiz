@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">History Quiz</string>
+    <string name="background_description">Background</string>
+    <string name="edit_text_hint">Answer Field</string>
+    <string name="submit_button">Submit</string>
+    <string name="score_result">Score :   </string>
+    <string name="question_1">Question 1 text</string>
+    <string name="question_1_answer">Question 1 answer</string>
+    <string name="question_2">Question 2 text</string>
+    <string name="question_2_choice_1">Question 2 choice 1</string>
+    <string name="question_2_choice_2">Question 2 choice 2</string>
+    <string name="question_2_choice_3">Question 2 choice 3</string>
+    <string name="question_2_choice_4">Question 2 choice 4</string>
+    <string name="question_3">Question 3 text</string>
+    <string name="question_3_choice_1">Question 3 choice 1</string>
+    <string name="question_3_choice_2">Question 3 choice 2</string>
+    <string name="question_3_choice_3">Question 3 choice 3</string>
+    <string name="question_3_choice_4">Question 3 choice 4</string>
+    <string name="question_4">Question 4 text</string>
+    <string name="question_4_answer">Question 4 answer</string>
+    <string name="question_5">Question 5 text</string>
+    <string name="question_5_choice_1">Question 5 choice 1</string>
+    <string name="question_5_choice_2">Question 5 choice 2</string>
+    <string name="question_5_choice_3">Question 5 choice 3</string>
+    <string name="question_5_choice_4">Question 5 choice 4</string>
+    <string name="question_6">Question 6 text</string>
+    <string name="question_7">Question 7 text</string>
+    <string name="question_8">Question 8 text</string>
+    <string name="question_9">Question 9 text</string>
+    <string name="question_10">Question 10 text</string>
+</resources>
